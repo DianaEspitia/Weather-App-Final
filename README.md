@@ -1,16 +1,24 @@
-# weather_app
+# Wather App 🌤🌦🌥
 
-A new Flutter project.
+## Search weather information by city. Available data:
+### 🌦 Weather.
+### 🌡 Temperature.
+### 🌥 Cloud cover.
+### 💨 Wind.
+### 💧 Humidity.
+### 📍 Pressure.
 
-## Getting Started
+## Home
+<p align="center"><img width="300" src="https://github.com/DianaEspitia/Weather-App-Final/blob/main/repo_images/weather_app_home.png"></p>
 
-This project is a starting point for a Flutter application.
+## Information by city (example).
+<p align="center"><img width="300" src="https://github.com/DianaEspitia/Weather-App-Final/blob/main/repo_images/weather_app_response.png"></p>
 
-A few resources to get you started if this is your first Flutter project:
+## Error - no information found (verify the name of the city).
+<p align="center"><img width="300" src="https://github.com/DianaEspitia/Weather-App-Final/blob/main/repo_images/weather_app_city_error.png"></p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Error - something is wrong (internet connection).
+<p align="center"><img width="300" src="https://github.com/DianaEspitia/Weather-App-Final/blob/main/repo_images/weather_app_internet_error.png"></p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Example
+<p align="center"><img width="300" src="https://github.com/DianaEspitia/Weather-App-Final/blob/main/repo_images/weather_app_test.gif"></p>
