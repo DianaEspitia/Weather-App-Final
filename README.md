@@ -1,4 +1,4 @@
-# Wather App 🌤🌦🌥
+# Weather App 🌤🌦🌥
 
 ## Search weather information by city. Available data:
 ### 🌦 Weather.
